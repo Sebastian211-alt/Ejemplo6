@@ -106,13 +106,6 @@ System.out.println("==========================================");
         
         System.out.println("TU NOTA DE PROGRAMACION ES DE: " + resultado);
         
-        
-        
-        
-        
-        
-        
-        
     }
     
 }
